@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{685BB519-ED92-7C72-E042-4DEDBA49769B}") = "Lumberjack Apocalypse", "Assembly-CSharp-firstpass-vs.csproj", "{5C050264-4010-48F3-9A42-0B05BDEE629A}"
+EndProject
+Project("{685BB519-ED92-7C72-E042-4DEDBA49769B}") = "Lumberjack Apocalypse", "Assembly-CSharp-vs.csproj", "{22E47360-488F-F8AA-3E24-7FB65BBC5416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C050264-4010-48F3-9A42-0B05BDEE629A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C050264-4010-48F3-9A42-0B05BDEE629A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C050264-4010-48F3-9A42-0B05BDEE629A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C050264-4010-48F3-9A42-0B05BDEE629A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22E47360-488F-F8AA-3E24-7FB65BBC5416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E47360-488F-F8AA-3E24-7FB65BBC5416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E47360-488F-F8AA-3E24-7FB65BBC5416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E47360-488F-F8AA-3E24-7FB65BBC5416}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																						GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
